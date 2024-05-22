@@ -2,6 +2,7 @@
     <h1>SQLMap Lab Walkthrough</h1>
     <h2>Introduction</h2>
     <p>This guide will walk you through the TryHackMe SQLMap lab, teaching you how to use SQLMap to find and exploit SQL injection vulnerabilities. Ensure you have access to TryHackMe and the necessary tools installed (OpenVPN, Burp Suite, and Gobuster).</p>
+    - <b><a href="https://tryhackme.com/r/room/sqlmap">TryHackMe SQLMAP Lab</a></b>
     <h2>Prerequisites</h2>
     <ul>
         <li><strong>TryHackMe Account:</strong> Ensure you have an account on TryHackMe.</li>
